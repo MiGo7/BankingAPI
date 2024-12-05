@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Main Spring boot application
+ * Main Spring boot application start
  */
 @SpringBootApplication
 public class BankingApplication {
